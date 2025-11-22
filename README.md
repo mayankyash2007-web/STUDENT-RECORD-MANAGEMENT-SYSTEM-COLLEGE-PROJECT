@@ -35,3 +35,40 @@ Python’s readability and flexibility make it ideal for building simple and int
 2. Download or clone the repository:  
    ```bash
    git clone <repository-url>
+   🧪 How to Test the Application
+
+Run the program.
+
+Choose an option from the displayed menu:
+
+1 → Add Student
+
+2 → Search Student
+
+3 → Update Student
+
+4 → Delete Student
+
+5 → Display All Students
+
+6 → Exit the Program
+
+Try out each option by entering realistic student information.
+
+Check whether the system correctly performs add, search, update, delete, and display functions.
+
+This ensures all CRUD operations are functioning properly.
+
+📄 Additional Notes
+
+This project is especially valuable for:
+
+🎓 Students learning Python fundamentals
+
+🧑‍💻 Beginners practicing program logic and file-free data management
+
+🧪 Those exploring small-scale CLI applications
+
+📚 Academic assignments, demonstrations, or workshops
+
+It lays the foundation for more advanced systems that may include file handling, databases, GUIs, or web interfaces
