@@ -74,11 +74,3 @@ A simple and intuitive CLI interface that helps users navigate through all opera
 
 ---
 
-This enhanced **STATEMENT.md** clearly communicates the purpose, boundaries, users, and features of your project in a professional and engaging format.
-
-If you'd like, I can also create:
-✨ A **PDF version**  
-✨ A **project report**  
-✨ A **flowchart or architecture diagram**  
-
-Just tell me!
